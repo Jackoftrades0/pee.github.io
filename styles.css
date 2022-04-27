@@ -1,0 +1,23 @@
+header { text-align:center;
+   background-color: rgba(5, 24, 41, 0.938);
+    background-size: cover;
+   image-rendering: optimizeQuality;
+    shape-image-threshold: inherit; 
+font-family:'Franklin Gothic Medium';
+text-shadow: rgb(244, 245, 244);
+color: rgb(245, 248, 248);} 
+a{color: rgb(250, 249, 246);}
+img {margin:0.5px 0px 0px 0px;
+   border: 7px solid rgb(187, 182, 182);
+   border-radius: 1000px;
+width: 349px;}
+p {font-size: 19px;
+text-shadow: azure;
+text-align: center;}
+  ul{font-size: 30px;
+padding: 10px;}
+li {display: inline;
+padding: 10px  60px  20px;}
+h1 {text-align: center;
+font-size: 50px;} 
+#Aboutmesection{ 
